@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GameCanvas.qml</file>
+        <file>MyCar.qml</file>
+        <file>content/background.jpg</file>
+        <file>content/bad_car.png</file>
+        <file>content/dan_car.png</file>
+        <file>Badcar.qml</file>
+    </qresource>
+</RCC>
